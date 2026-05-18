@@ -1,0 +1,13 @@
+body{
+font-family:Arial,sans-serif;
+background:#0b1020;
+color:#fff;
+margin:0;
+}
+.hero{
+height:100vh;
+display:flex;
+align-items:center;
+justify-content:center;
+text-align:center;
+}
